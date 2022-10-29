@@ -55,6 +55,13 @@ Simple linear regression is a statistical method that allows us to summarize and
 # Multiple Linear Regression 
 - Multiple linear regression is a statistical method to estimate the relationship between two or more independent variables and one dependent variable.
 
+# Time Series
+- A Time Series is typically defined as a series of values that one or more variables take over successive time periods. For example, sales volume over a period of successive years, average temperature in a city over months etc.
+- Therefore, Time Series forecast is about forecasting a variable’s value in future, based on it’s own past values.
+- To modelling time series data, we used prophet module. Prophet models time series as a generalized additive model (GAM) combining the trend function, seasonality function, holiday effects, and an error term in one model
+- In machine learning, train/test split splits the data randomly. But, in time series data the values at the rear of the dataset if for testing and everything else for training.
+- The better the model is the model with the more similar the data from the model obtained to the original data. One of the indicators is to look at the MAPE value (the smaller one is the better one).
+
 # Evaluate Model
 -	One way to evaluate models is to use MAPE
 -	The Mean Absolute Percentage Error (MAPE) can be used in machine learning to measure the accuracy of a model.
