@@ -70,10 +70,12 @@ The simplest type of relationship these vatiables is a linear relationship
 # Simple Linear Regression
 Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables.
 -	One Variable X (independent variable)
--	One Variable y (response variable)
+-	One Variable y (dependent variable)
 
 # Multiple Linear Regression 
-- Multiple linear regression is a statistical method to estimate the relationship between two or more independent variables and one dependent variable.
+Multiple linear regression is a statistical method to estimate the relationship between two or more independent variables and one dependent variable.
+- Two or more variable X (indepedendent variable)
+- One variable y (dependet variable)
 
 # Time Series
 - A Time Series is typically defined as a series of values that one or more variables take over successive time periods. For example, sales volume over a period of successive years, average temperature in a city over months etc.
