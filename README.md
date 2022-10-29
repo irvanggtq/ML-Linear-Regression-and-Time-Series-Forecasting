@@ -1,5 +1,25 @@
 # Machine Learning Linear Regression and Time Series Forecasting
-# Machine Learning
+# Machine Learning Workflow
+- Data Profiling
+- Data Cleansing
+- Data Exploration
+- Feature Engineering
+- Modelling
+- Evaluation and Deployment
+### Requirements of Machine Learning
+There are 3 Requirements of Machine Learning: 
+- There must be data 
+- The data must have a pattern 
+- The algorithm is hard to be processed
+# Data Profiling
+Data profiling is the process of reviewing source data, understanding structure, content and interrelationships, and identifying potential for data projects. 
+# Data Cleansing
+Data cleansing is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data.
+# Exploratory Data Analysis
+Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+### Multicollinearity
+Multicollinearity occurs when one independent variable in a regression model is linearly correlated with another independent variable.
+The way to detect multicollinearity in the regression model is by looking at the strength of the correlation between the independent variables. If there is a correlation between independent variables > 0.5, it can be indicated that there is multicollinearity.
 # Feature Engineering
 Feature engineering is the process of selecting, manipulating, and transforming raw data into features that can be used for creating a predictive model using Machine learning or statistical Modelling.
 ### One-hot Encoding
