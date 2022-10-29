@@ -62,6 +62,9 @@ Simple linear regression is a statistical method that allows us to summarize and
 - In machine learning, train/test split splits the data randomly. But, in time series data the values at the rear of the dataset if for testing and everything else for training.
 - The better the model is the model with the more similar the data from the model obtained to the original data. One of the indicators is to look at the MAPE value (the smaller one is the better one).
 
+# Cross Validation
+Cross-validation (CV) is a technique used to assess a machine learning model and test its performance (or accuracy). It involves reserving a specific sample of a dataset on which the model isn't trained. Later on, the model is tested on this sample to evaluate it. Cross-validation is used to protect a model from overfitting, especially if the amount of data available is limited. It's also known as rotation estimation or out-of-sample testing and is mainly used in settings where the model's target is prediction.
+
 # Evaluate Model
 -	One way to evaluate models is to use MAPE
 -	The Mean Absolute Percentage Error (MAPE) can be used in machine learning to measure the accuracy of a model.
