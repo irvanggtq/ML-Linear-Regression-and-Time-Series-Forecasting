@@ -36,8 +36,25 @@ In this topic, the modeling that will be explained is Simple Linear Regression, 
 
 **Step 3**: Plot the result
 
-## Multiple Linear Regression 
+# Machine Learning Regression
+# Regression
+The simplest type of relationship these vatiables is a linear relationship
+### Situation:
+-	There is a single response variable Y, also called the dependent variable
+-	Depends on the vakue of a set of input, aslo called independent varaibles (X1, X2, ..., Xr)
+### Linear Regression Assumption
+-	Relation between dependant variable and independent variable is linear.
+-	Error or residual of the model need to be normally distributed.
+-	There is no multicolineraity.
+
+# Simple Linear Regression
+Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables.
+-	One Variable X (independent variable)
+-	One Variable y (response variable)
+
+# Multiple Linear Regression 
 - Multiple linear regression is a statistical method to estimate the relationship between two or more independent variables and one dependent variable.
+
 # Evaluate Model
 -	One way to evaluate models is to use MAPE
 -	The Mean Absolute Percentage Error (MAPE) can be used in machine learning to measure the accuracy of a model.
