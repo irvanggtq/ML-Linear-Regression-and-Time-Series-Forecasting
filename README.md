@@ -36,6 +36,8 @@ In this topic, the modeling that will be explained is Simple Linear Regression, 
 
 **Step 3**: Plot the result
 
+## Multiple Linear Regression 
+- Multiple linear regression is a statistical method to estimate the relationship between two or more independent variables and one dependent variable.
 # Evaluate Model
 -	One way to evaluate models is to use MAPE
 -	The Mean Absolute Percentage Error (MAPE) can be used in machine learning to measure the accuracy of a model.
